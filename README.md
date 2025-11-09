@@ -66,3 +66,28 @@ SQLite (Data storage)
 Jupyter Notebook
 
 Power BI (Interactive dashboard)
+
+📂 Folder Structure
+/Vendoe Sales
+│── ingestion_db.py
+│── get_vendor_summary.py
+│── vendor_sales_summary.csv
+│── vendor_sales_summary.db
+│── Exploratory Data Analysis.ipynb
+│── Vendor Performance Analysis.ipynb
+│── Vendor Performance Analysis.pbix
+│── Vendor Performance Analysis Report.pdf
+│── Vendor Performance Analysis Report.docx
+│── logs/
+│── ...
+
+📸 Screenshots
+
+(Add screenshots of your dashboard & graphs here)
+
+📊 Final Results
+
+This analysis supports decision-making by providing:
+✅ Accurate vendor KPIs
+✅ Data-driven recommendations
+✅ Interactive visualization for business review
