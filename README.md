@@ -81,9 +81,14 @@ Power BI (Interactive dashboard)
 │── logs/
 │── ...
 
-📸 Screenshots
+## 📊 Dataset Availability  
+The full dataset used in this project is large (~2GB) and cannot be stored directly in the repository.  
+It is available here:
 
-(Add screenshots of your dashboard & graphs here)
+🔗 Full Dataset (Google Drive):  
+https://drive.google.com/drive/folders/14O8TpuU_OGJrIQEdxN2JqINfI2xkIyBC?usp=drive_link
+
+A smaller sample file (`vendor_sales_summary_sample.csv`) is included in this repo for testing and reproducibility.
 
 📊 Final Results
 
